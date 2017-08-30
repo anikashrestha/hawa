@@ -1,0 +1,56 @@
+body{
+    width: 100%;
+    font-family: 'Segoe UI';
+}
+
+#app{
+    
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    
+}
+
+.newerror{
+    margin-top: 2%;
+}
+
+.overview{
+    text-align: justify;
+}
+
+.resultfetch{
+    margin-top: 2%;
+    border-radius: 2px;
+    border: 1px solid #0069D9;
+    padding: 5px;
+}
+
+#searchresults{
+    background: #0069D9;
+    color: white;
+    width: 100%;
+    margin-top: -2%;
+    border-radius: 2px;
+    font-size: 1.2em;
+    font-weight: bold; 
+}
+
+#details{
+    margin-top: 2%;
+}
+
+.posterpath img{
+    width: 115px;
+    margin-left: 15px;
+}
+
+.movietitle, .releasedate{
+    text-align: left;
+}
+
+.footer{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
